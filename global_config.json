@@ -70,11 +70,11 @@
       },
       "redpill_lkm": {
         "source_url": "https://github.com/jumkey/redpill-lkm.git",
-        "branch": "develop"
+        "branch": "developer"
       },
       "redpill_load": {
         "source_url": "https://github.com/pocopico/redpill-load.git",
-        "branch": "develop"
+        "branch": "developer"
       }
     },
     {
